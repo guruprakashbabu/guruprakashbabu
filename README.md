@@ -7,6 +7,22 @@
 
 - 📫 How to reach me **guruprakash460@gmail.com**
 
+- Stuff I am Good At:
+1.Proficient in core Java, including OOP, collections, and exception handling.
+2.Experienced in advanced Java concepts like JSP and Servlets for web development.
+3.Learning Spring and Spring Boot for building scalable, maintainable web applications.
+4.Skilled in frontend formatting and styling using HTML and CSS.
+5.Learning JavaScript and React for interactive, dynamic web applications.
+6.Adept at implementing image and text data pipelines in Python.
+
+Stuff I Want to Be Good At:
+1.Mastering complex backend system design and real-world architecture in Java.
+2.Becoming an expert in Spring Boot for scalable, production-ready applications.
+3.Deepening knowledge in React to build high-performance, user-centric interfaces.
+4.Contributing effectively to open-source projects, especially in Java and modern frameworks.
+5.Writing clean, efficient, and optimized code for both frontend and backend.
+6.Enhancing skills in large-scale application performance optimization and debugging techniques.
+
 - ⚡ Interesting Insight **I love learning new technologies!**
 
 <h3 align="left">Connect with me:</h3>
