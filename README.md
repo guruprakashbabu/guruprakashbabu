@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guruprakash</h1>
-<h3 align="center">From user interface to server logic, I build it all</h3>
+<h3 align="center">I'm Developer, From user interface to server logic, I build it all</h3>
 
 - 🌱 I’m currently learning **ReactJS, AWS**
 
